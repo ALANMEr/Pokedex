@@ -1,4 +1,3 @@
-// https://unpkg.com/pokemons@1.1.0/pokemons.json
 
 import { Pokemon } from "../types/types.d";
 import { formatName } from "../utils/utils";
